@@ -1,0 +1,25 @@
++---------------------------------------------------+
+|           [ POLYMORPHIC CODE CREATOR ]           |
+|              "Transform. Deploy. Evade."         |
++---------------------------------------------------+
+
+[ Select .exe File ]   [ Browse... ]  ✅ exe loaded
+
+[ Transformation Profile ]
+  (x) Basic Mutation
+  ( ) High Evasion
+  ( ) AI-Optimized
+
+[ Output Path ]  /output/mutated.exe
+
+[✔️] Dead Code Injection      [✔️] Register Swapping
+[✔️] Control Flow Mutation    [ ] Code Encryption
+[ ] Random Delays             [✔️] Metadata Scrambler
+
+[ Run Polymorph 🧬 ]
+
+Console Log:
+> Injecting NOP chains...
+> Shuffling instruction order...
+> Rewriting import table...
+> Output ready: mutated.exe (SHA256: XXXX)
